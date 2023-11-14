@@ -19,7 +19,7 @@ I llistes desordenades:
 * Item 2...
 I incloure [enllaços](https://github.com/mapp-edu/elmeuPrimerRepo/) i com ja vam veure,
 també imatges:
-![Logotip del curs d'Aules](imagenes/th.jpeg)
+![Logotip del curs d'Aules](Imagenes/th.jpeg)
 A més podem incloure codi, tant de forma inline: `com ara aquest text`, com codi en bloc:
 `java
 String hola="Hola Mundo";
