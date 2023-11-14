@@ -25,3 +25,9 @@ A més podem incloure codi, tant de forma inline: `com ara aquest text`, com cod
 String hola="Hola Mundo";
 System.Out.Println(hola);
 ---
+> Esto es una cita
+| Tabla     | tabla        | TablA       |
+|:--------------:|:-------------:|:-------------:|
+| Celda 1,1      | Celda 1,2     | Celda 1,3     |
+| Celda 2,1      | Celda 2,2     | Celda 2,3     |
+| Celda 3,1      | Celda 3,2     | Celda 3,3     |
